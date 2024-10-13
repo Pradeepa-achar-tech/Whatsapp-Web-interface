@@ -1,0 +1,22 @@
+img{
+    float: left;
+    width: 60px;
+    height:60px;
+}
+.mainclass{
+    width: 400px;
+  
+    background-color: aqua;
+    float: left;
+}
+.mainclass2{
+    width: 400px;
+   
+    background-color: rgb(255, 0, 89);
+    float: right;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: blue;
+}

@@ -1,0 +1,60 @@
+.flag{
+
+    width: 900px;
+    height: 600px;
+    background-color: brown;
+    position: relative;
+}
+
+.flag>div{
+    width:100% ;
+    height: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 150px;
+
+}
+
+.flag>div>div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top:50px;
+    left:350px;
+}
+
+p {
+    margin: 0;
+    font-size: 5rem;
+    text-align: center;
+    color: white;
+}
+
+.flag div div  p{
+    color: black;
+}
+
+
+.displayClass1{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.displayClass2{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.displayClass3{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
